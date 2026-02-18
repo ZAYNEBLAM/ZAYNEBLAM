@@ -2,7 +2,6 @@
 - 👀 I’m interested in physics, astronomy and ofc algorithms .
 - 🌱 I’m currently learning phyton, java, C, php, javascript, assembly, linux, database...
 - 📫 How to reach me : zayneblamraiki@gmail.com.
-- ⚡ Fun fact: I love classical music. 
 
 <!---
 ZAYNEBLAM/ZAYNEBLAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
